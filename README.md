@@ -50,6 +50,5 @@ The UI is designed using a glassmorphism style with gradient background and anim
 
 ##  Project Preview
 
-
-(Add your screenshot here)
+![To-Do App Screenshot](display.png)
 
